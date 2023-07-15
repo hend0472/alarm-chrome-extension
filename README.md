@@ -19,4 +19,4 @@ Currently when accessing cameras through alarm.com, there is no way to view them
 
 
 ###
-[Buy Me a Coffee](https://bmc.link/hend04720)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hend04720)
